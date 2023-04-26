@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": "f468a42b-e3eb-4ef7-abce-f91881f0cf50",
+      "name": "Haridas Bhuse",
+      "email": "pbpatil30@gmail.com",
+      "number": "7777777777"
+    },
+    {
+      "id": "04900bb1-8090-4ed8-8618-4c4aecc691d2",
+      "name": "Haridas Bhuse",
+      "email": "pbpatil30@gmail.com"
+    },
+    {
+      "id": "9fbc76e6-8e05-48c8-bc1c-15a221335702",
+      "name": "Haridas Bhuse",
+      "email": "pbpatil30@gmail.com"
+    },
+    {
+      "id": "53ce64ac-ec83-4f51-8b36-36b03d951af7",
+      "name": "Haridas Bhuse",
+      "email": "pbpatil30@gmail.com"
+    }
+  ]
+}
